@@ -4,8 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hola mundo!" << endl;
-    cout << "Éste es un tutorial de GitHub" << endl;
-    cout << "¡Estamos en una rama nueva!" << endl;
+    cout << "Hola mundo!" << endl;    
+    cout << "Nuevo tutorial de GitHub" << endl;
     return 0;
 }
